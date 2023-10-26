@@ -1,2 +1,3 @@
 # gitBasics
-trying sum git stuffs like pull request and merge
+## This is a feature of readme
+edit: read me.
